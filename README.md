@@ -222,4 +222,3 @@ Data Analyst | Credit Risk & Fintech Specialist
 
 ---
 
-*This project demonstrates end-to-end credit risk analytics capability aligned with the workflows of Risk Analytics, Decision Science, and Model Risk teams at Tier-1 financial institutions including American Express, HSBC, Citi, and JP Morgan.*
