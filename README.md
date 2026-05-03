@@ -217,7 +217,7 @@ Dataset    : Kaggle — yasserh/loan-default-dataset (49,278 records)
 ## Author
 
 **Lokesh Gaddam**  
-Data Analyst | Credit Risk & Fintech Specialist  
+Data Analyst | Credit Risk & Fintech Specialist 
 🔗 [GitHub](https://github.com/LokeshGaddam14) · [Portfolio](https://lokeshgaddam14.github.io/Portofolio/index.html)
 
 ---
