@@ -1,4 +1,5 @@
 # 🏦 Bank Loan Default Risk Analysis
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_LINK)
 ### Credit Risk Analytics · PD Modeling · Basel III / IFRS 9 Framework
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
